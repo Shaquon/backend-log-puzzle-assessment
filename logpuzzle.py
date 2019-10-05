@@ -16,6 +16,8 @@ Here's what a puzzle url looks like:
 
 """
 
+#author "Shaquon"
+
 import os
 import re
 import sys
